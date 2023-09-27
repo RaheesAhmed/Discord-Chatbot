@@ -21,6 +21,11 @@ Clone the repository
 ```
 git clone https://github.com/RaheesAhmed/Discord-Chatbot.git
 ```
+Go to the Directory:
+```
+cd Discord-Chatbot
+```
+
 Run npm install to install dependencies
 ```
 npm install openai dotenv discord.js
